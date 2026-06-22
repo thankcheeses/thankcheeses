@@ -28,6 +28,7 @@ I call this gap **Impersonation Latency** — the time between an AI system init
 | **[NHID-Clinical](https://nhid-clinical.org)** | Open, voluntary reference implementation for transparency and accountability of AI voice agents in healthcare workflows — specifications, conformance tests, audit-trace schemas, and policy-engine demos. ([GitHub org](https://github.com/NHID-Clinical)) |
 | **[AI Governance Map](https://ai-governance-map.vercel.app/)** | A visualization mapping the fragmented landscape of AI governance frameworks, standards, and regulatory initiatives. |
 | **[Vend-Smart](https://vend-smart.vercel.app/)** | Applied project exploring smart, agent-driven workflows. |
+| **[Dynamic Media Accessibility & Governance Framework](https://xdynamicprofileproposal.tiiny.site/)** | A governance proposal (v1.3) for safely shipping dynamic/animated profile headers on X — covering WCAG 2.2 photosensitivity compliance, ADA Title II and DSA/EU AI Act alignment, opt-in biometric abuse controls, and a staged rollout plan. |
 
 ### NHID-Clinical Documentation
 
