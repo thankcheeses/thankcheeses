@@ -1,4 +1,4 @@
-# Hi, I'm Brianna Nicole Baynard 👋
+# Hi, I'm Brianna Baynard-Malone 👋
 
 **AI Governance Researcher · Cybersecurity Professional · Founder, [NHID-Clinical](https://nhid-clinical.org)**
 
