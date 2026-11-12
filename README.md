@@ -2,7 +2,7 @@
 
 AI governance analyst · IAPP AIGP · Harrisburg, PA (remote)
 
-I turn AI governance rules into things people can test and use. Before AI governance, I spent about six years applying policy and regulatory rules in regulated programs, including verifying identity before releasing patient health information.
+I turn AI governance rules into things people can test and use. Before AI governance, I spent more than five years applying policy and regulatory rules in regulated programs, including verifying identity before releasing patient health information.
 
 **Open to:** entry-level AI governance, GRC, privacy and compliance roles.
 
