@@ -12,9 +12,10 @@ I turn AI governance rules into things people can test and use. Before AI govern
 | --- | --- |
 | [NHID-Clinical](https://github.com/NHID-Clinical/NHID-Clinical) · [site](https://nhid-clinical.org) | Open framework for AI agents that call healthcare payers: five testable controls that decide when patient data may be shared. Mapped (not certified) to the NIST AI RMF. |
 | [AI Governance Practice](https://thankcheeses.github.io/ai-governance-practice/) | Free scenario training for practitioners: 350 original questions, every wrong answer explained. |
-| [AI Governance Map](https://thankcheeses.github.io/ai-governance-map/) | Interactive map of 31 AI laws, frameworks and standards and 75 dated obligations. Runs in your browser, with no tracking. |
+| [AI Governance Map](https://thankcheeses.github.io/ai-governance-map/) | Interactive map of 31 AI laws, frameworks and standards and 75 obligations. Runs in your browser, with no tracking. |
 | [THE RECEIPT](https://thankcheeses.github.io/THE-RECEIPT/) | Social prediction app where a prediction can't be edited once it's locked. |
 | [Dynamic Media Governance](https://thankcheeses.github.io/dynamic-media-governance/) | Policy proposal for safely shipping animated profile headers on a social platform. |
+| [NardTrace](https://thankcheeses.github.io/NardTrace/) | Email and infrastructure investigation workbench that turns a suspicious email into an evidence report and says what each finding does not prove. |
 
 ## Public record
 
